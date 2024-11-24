@@ -1,1 +1,1 @@
-# AI_project
+# SMS SPAM DETECTION
